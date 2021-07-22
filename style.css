@@ -1,0 +1,23 @@
+.bi-emoji-frown {
+
+    pointer-events:none;
+}
+
+.bi-emoji-heart-eyes {
+
+    pointer-events:none;
+}
+
+
+body {
+      background-image: url("https://i.imgur.com/r2D9pvR.png")
+
+}
+
+.card-img-top {
+    border-radius: 50%;
+
+}
+
+
+
